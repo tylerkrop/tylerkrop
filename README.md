@@ -1,10 +1,11 @@
-My Favorite Languages ❤️
+Languages I Love ❤️
 - C#
-- Typescript
+- Go
 - Python
 - Rust
+- TypeScript
 
 My Hobbies ✨
 - Reading 📚
 - Rock Climbing 🧗
-- Piano / Guitar 🎼
+- Piano 🎼
