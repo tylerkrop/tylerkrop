@@ -1,12 +1,14 @@
 Languages 💻
+
 - C#
 - Go
-- Rust
 - Python
 - Ruby
+- Rust
 - TypeScript
 
 Hobbies ✨
+
 - Reading 📚
 - Hiking 🥾
 - Rock Climbing 🧗
